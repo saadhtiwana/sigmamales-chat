@@ -1,35 +1,39 @@
-# sigmamales-chat
-Basic React Chat App (Not fully Functional)
 # SigmaMales Chat Platform
 
-A futuristic, cyberpunk-style real-time chat web application designed for the elite **SigmaMales** group. This platform delivers a high-tech, immersive chatting experience with a sleek UI, cutting-edge animations, and real-time interaction.
+\# sigmamales-chat  
+
+Basic React Chat App (Not fully Functional)  
+
+## 📷 Preview  
+
+![SigmaMales Chat](us.jpg)  
 
 ---
 
-## 🚀 Features
+## 🚀 Features  
 
-- **Futuristic UI**: Neon-accented, cyberpunk-themed glass-morphism design
-- **Real-Time Chat**: Instant messaging with seamless communication
-- **User Roles**: 
-  - **Owner**: Full control over the platform
-  - **Admin**: Moderation privileges
-  - **Member**: Standard chat functionalities
-- **Member Search & Status Indicators**: Find users quickly and view their activity status
-- **Responsive Design**: Optimized for both desktop and mobile
-- **Cyberpunk Animations**: Smooth, high-tech hover effects and transitions
-
----
-
-## 🛠️ Tech Stack
-
-- **Frontend**: React 18 + TypeScript
-- **Styling**: Tailwind CSS, Shadcn UI
-- **Icons**: Lucide React
-- **Real-Time Chat**: AI SDK integration
+- **Futuristic UI**: Neon-accented, cyberpunk-themed glass-morphism design  
+- **Real-Time Chat**: Instant messaging with seamless communication  
+- **User Roles**:  
+  - **Owner**: Full control over the platform  
+  - **Admin**: Moderation privileges  
+  - **Member**: Standard chat functionalities  
+- **Member Search & Status Indicators**: Find users quickly and view their activity status  
+- **Responsive Design**: Optimized for both desktop and mobile  
+- **Cyberpunk Animations**: Smooth, high-tech hover effects and transitions  
 
 ---
 
-## 🏗️ Project Structure
+## 🛠️ Tech Stack  
+
+- **Frontend**: React 18 + TypeScript  
+- **Styling**: Tailwind CSS, Shadcn UI  
+- **Icons**: Lucide React  
+- **Real-Time Chat**: AI SDK integration  
+
+---
+
+## 🏗️ Project Structure  
 
 ```
 SigmaMales-Chat/
@@ -47,51 +51,51 @@ SigmaMales-Chat/
 
 ---
 
-## 🎨 Design Choices
+## 🎨 Design Choices  
 
-The **SigmaMales Chat Platform** is built with a high-tech aesthetic in mind:
+The **SigmaMales Chat Platform** is built with a high-tech aesthetic in mind:  
 
-- **Dark Theme**: Neon blue and purple accents for a futuristic look
-- **Glass-Morphism**: Depth effects for a sleek, modern UI
-- **Custom Animations**: Smooth transitions and hover effects
-- **Gradient Texts & Backgrounds**: Enhancing the cyberpunk aesthetic
-- **Minimalistic Inputs**: Clean, sleek text fields with cyber styling
+- **Dark Theme**: Neon blue and purple accents for a futuristic look  
+- **Glass-Morphism**: Depth effects for a sleek, modern UI  
+- **Custom Animations**: Smooth transitions and hover effects  
+- **Gradient Texts & Backgrounds**: Enhancing the cyberpunk aesthetic  
+- **Minimalistic Inputs**: Clean, sleek text fields with cyber styling  
 
 ---
 
-## 🚀 Getting Started
+## 🚀 Getting Started  
 
-1. **Clone the repository**
+1. **Clone the repository**  
    ```sh
    git clone https://github.com/saadhtiwana/sigmamales-chat.git
    cd sigmamales-chat
    ```
-2. **Install dependencies**
+2. **Install dependencies**  
    ```sh
    npm install
    ```
-3. **Start the development server**
+3. **Start the development server**  
    ```sh
    npm start
    ```
 
 ---
 
-## 👥 Contributors
+## 👥 Contributors  
 
-- **Saad Tiwana** (Owner)
-  - GitHub: [saadhtiwana](https://github.com/saadhtiwana)
-  - Email: saadhayat799@gmail.com
+- **Saad Tiwana** (Owner)  
+  - GitHub: [saadhtiwana](https://github.com/saadhtiwana)  
+  - Email: [saadhayat799@gmail.com](mailto:saadhayat799@gmail.com)  
 
-Contributions are welcome! Feel free to submit a PR or open an issue.
-
----
-
-## 📄 License
-
-This project is licensed under the **MIT License**.
+Contributions are welcome! Feel free to submit a PR or open an issue.  
 
 ---
 
-> **"Chat like a Sigma, rule like a Sigma."** 🦾🔥
+## 📄 License  
+
+This project is licensed under the **MIT License**.  
+
+---
+
+> **"Chat like a Sigma, rule like a Sigma."** 🦾🔥  
 
